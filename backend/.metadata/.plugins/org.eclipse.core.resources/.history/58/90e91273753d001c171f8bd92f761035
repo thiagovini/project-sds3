@@ -1,0 +1,11 @@
+package com.devsuperior.dsvendas.dto;
+
+import lombok.Data;
+
+@Data
+public class SaleSumDTO {
+	
+	private String sellerName;
+	private Double sum;
+
+}
