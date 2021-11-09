@@ -7,7 +7,7 @@ import NavBar from 'components/NavBar';
 const Dashboard = () => {
     return (
       <>
-      <NavBar />
+      <NavBar/>
       <div className="container">
         <h1 className="text-primary py-3">Dashboard de Vendas</h1>
 
